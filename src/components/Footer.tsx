@@ -13,13 +13,13 @@ const Footer = () => {
             <div className="text-center md:text-left">
               <h3 className="text-3xl font-serif font-bold mb-6">Lista de Presentes</h3>
               <p className="text-white/90 leading-relaxed">
-                Presentes escolhidos com amor e carinho especial para você.
+                Presentes escolhidos com amor e carinho especialmente para mim.
                 Cada item representa um sonho e um desejo especial.
               </p>
               <div className="mt-8">
                 <a href="mailto:contato@listadepresentes.com" className="text-white/80 hover:text-white flex items-center justify-center md:justify-start gap-2 transition-colors">
                   <Mail className="h-5 w-5" />
-                  <span>contato@listadepresentes.com</span>
+                  <span>helloisaduarte3101@gmail.com</span>
                 </a>
               </div>
             </div>
@@ -39,12 +39,6 @@ const Footer = () => {
                 </a>
                 <a href="#contato" className="block text-white/80 hover:text-white transition-colors">
                   Contato
-                </a>
-                <a href="#" className="block text-white/80 hover:text-white transition-colors">
-                  Política de Privacidade
-                </a>
-                <a href="#" className="block text-white/80 hover:text-white transition-colors">
-                  Termos de Uso
                 </a>
               </div>
             </div>

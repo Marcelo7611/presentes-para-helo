@@ -7,24 +7,24 @@ const BestSellers = () => {
   const favoriteGifts = [
     {
       id: 1,
-      name: "Sandália Luxury Design",
-      price: "R$ 599",
-      image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=400&h=400&fit=crop&auto=format",
-      description: "Sandália elegante com detalhes em cristais"
+      name: "Air MAx Tn Pink",
+      price: "R$ 1.200",
+      image: "/lovable-uploads/TN.jpeg",
+      description: "Conforto e estilo em cada passo"
     },
     {
       id: 2,
-      name: "Bolsa de Couro Premium",
-      price: "R$ 1.290",
-      image: "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=400&h=400&fit=crop&auto=format",
-      description: "Bolsa exclusiva em couro italiano genuíno"
+      name: "kit elseve",
+      price: "R$ 100",
+      image: "/lovable-uploads/Elseve.jpeg",
+      description: "cabelo saudável e radiante cuidados Elseve"
     },
     {
       id: 3,
-      name: "Perfume Le Luxe",
-      price: "R$ 780",
-      image: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&h=400&fit=crop&auto=format",
-      description: "Fragrância sofisticada de notas florais"
+      name: "Puma 180",
+      price: "R$ 699",
+      image: "/lovable-uploads/puma.jpeg",
+      description: "puma 180 perfeito para conforto e estilo"
     }
   ];
 

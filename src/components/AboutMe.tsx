@@ -10,7 +10,7 @@ const AboutMe = () => {
           <div className="w-full lg:w-1/2">
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=500&auto=format" 
+                src="/lovable-uploads/helloisaBanner.jpeg" 
                 alt="Foto de perfil elegante"
                 className="w-full h-full object-cover"
               />

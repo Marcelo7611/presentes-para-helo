@@ -6,14 +6,14 @@ const Categories = () => {
   const [activeCategory, setActiveCategory] = useState('Todos');
   
   const categories = [
-    'Todos',
-    'Decoração',
-    'Moda',
-    'Livros',
-    'Tecnologia',
-    'Beleza',
-    'Acessórios',
-    'Jóias'
+    'Cabelo',
+    'Skincare',
+    'hobbies',
+    'diferentes',
+    'estilo',
+    'maquiagem',
+    'perfumes',
+    'lugares'
   ];
 
   return (
@@ -55,7 +55,7 @@ const Categories = () => {
           </div>
           <div className="bg-white rounded-xl p-6 shadow-lg hover:shadow-xl transition-all duration-300">
             <div className="text-center text-pink-dark font-medium">
-              Decoração
+              Lugares
               <div className="text-pink-vibrant text-sm mt-1">18 itens</div>
             </div>
           </div>
