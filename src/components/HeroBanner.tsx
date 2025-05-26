@@ -12,7 +12,7 @@ const HeroBanner = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-white via-pink-pastel/30 to-pink-pastel"></div>
         <div className="w-full h-full flex items-center justify-center overflow-hidden">
           <img
-            src="/lovable-uploads/fundo2.jpeg"
+            src="/presentes-para-helo/lovable-uploads/fundo2.jpeg"
             alt="Presentes elegantes"
             className="w-auto h-full md:w-full md:h-auto object-cover opacity-95"
           />

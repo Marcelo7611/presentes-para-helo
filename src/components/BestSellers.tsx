@@ -9,21 +9,21 @@ const BestSellers = () => {
       id: 1,
       name: "Air MAx Tn Pink",
       price: "R$ 1.200",
-      image: "/lovable-uploads/TN.jpeg",
+      image: "/presentes-para-helo/lovable-uploads/TN.jpeg",
       description: "Conforto e estilo em cada passo"
     },
     {
       id: 2,
       name: "kit elseve",
       price: "R$ 100",
-      image: "/lovable-uploads/Elseve.jpeg",
+      image: "/presentes-para-helo/lovable-uploads/Elseve.jpeg",
       description: "cabelo saudável e radiante cuidados Elseve"
     },
     {
       id: 3,
       name: "Puma 180",
       price: "R$ 699",
-      image: "/lovable-uploads/puma.jpeg",
+      image: "/presentes-para-helo/lovable-uploads/puma.jpeg",
       description: "puma 180 perfeito para conforto e estilo"
     }
   ];

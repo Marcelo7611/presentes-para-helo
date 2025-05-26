@@ -10,21 +10,17 @@ import {
 const Gallery = () => {
   const galleryImages = [
     {
-      src: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=600&fit=crop&auto=format",
+      src: "/presentes-para-helo/lovable-uploads/eu.jpeg",
       alt: "Acessórios elegantes"
     },
     {
-      src: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=500&h=600&fit=crop&auto=format",
+      src: "/presentes-para-helo/lovable-uploads/arte.jpeg",
       alt: "Flores e decoração"
     },
     {
-      src: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=500&h=600&fit=crop&auto=format",
+      src: "/presentes-para-helo/lovable-uploads/praia.jpeg",
       alt: "Ambiente aconchegante"
     },
-    {
-      src: "https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da?w=500&h=600&fit=crop&auto=format",
-      alt: "Acessórios de luxo"
-    }
   ];
 
   return (
